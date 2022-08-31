@@ -1,0 +1,15 @@
+@media (max-width: 620px) {
+    .div {
+        padding: 0 15px;
+        gap: 10px;
+    }
+
+    .button {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
